@@ -33,10 +33,11 @@ https://docs.python.org/3/library/random.html
 
 
 # Objetivo del programa:
-
 ### Crear un juego de BlackJack donde el jugador pueda tomar decisiones que afecten sus resultados. 
 
-
+ 
+ 
+# Notas importantes: 
 ### Este juego fue creado bajo el modelo OOP. 
 ### Checar documentación en:
 https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP
